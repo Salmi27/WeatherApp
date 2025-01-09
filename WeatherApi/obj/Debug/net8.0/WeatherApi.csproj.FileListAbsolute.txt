@@ -31,3 +31,4 @@ E:\WeatherApp\WeatherApi\obj\Debug\net8.0\refint\WeatherApi.dll
 E:\WeatherApp\WeatherApi\obj\Debug\net8.0\WeatherApi.pdb
 E:\WeatherApp\WeatherApi\obj\Debug\net8.0\WeatherApi.genruntimeconfig.cache
 E:\WeatherApp\WeatherApi\obj\Debug\net8.0\ref\WeatherApi.dll
+E:\WeatherApp\WeatherApi\obj\Debug\net8.0\WeatherApi.sourcelink.json
